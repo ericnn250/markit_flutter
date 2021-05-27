@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26604328384",
+    "project_id": "markitecommerce1",
+    "storage_bucket": "markitecommerce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26604328384:android:66e68b32476b09ea992425",
+        "android_client_info": {
+          "package_name": "com.markit.markit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26604328384-3askuvmu5dri7nvvbbh5i280rpvob9co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5btf4xEQ5eNmrzNDZ00M-X0pQaO0dew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26604328384-3askuvmu5dri7nvvbbh5i280rpvob9co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
